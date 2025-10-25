@@ -1,0 +1,270 @@
+id,hash,author_name,author_age,receiver_sex,receiver_name,text_raw_numtokens,year,month,day,text_type
+5,d21e6acf5b17f1626ff5c5e504449cfc2b80313d5c8f9764a3aff3450d2f30d2,Walter Benjamin,19,m,Herbert Belmore,766,1911,7,19,letter
+140,3483126e90e2926f77218b8525df3859a5eb3a3fb5a17987181e197ac1c1f9f6,Walter Benjamin,35,m,Hugo von Hofmannsthal,617,1927,5,6,letter
+8,bdd9cdaf45df6a83ae2d5ca9447cf23f5742c966aeac7ec2560c25186ae90999,Walter Benjamin,20,m,Herbert Belmore,474,1912,6,21,letter
+244,debe0eec428261db9b0c4d10cbd1e24316e5a308b9ec306746a076da6d6408e2,Walter Benjamin,44,m,Maz Horkheimer,324,1936,8,31,letter
+139,c0d5843afd22f0739e905e597686fb32cf6c95f42730cfc6f291dcb8edafbebe,Walter Benjamin,35,m,Martin Buber,449,1927,2,23,letter
+132,3b482b5e6d06328a3d6d3797c59ea83a83b042b4e22d7882fa72f0891e957248,Walter Benjamin,34,m,Jula Radt,1517,1926,4,,letter
+4,0f0007cd241eb73f11201a36879c63d4f7d0e3ae6cfd655da55142eb89244c9e,Walter Benjamin,19,m,Herbert Belmore,953,1911,7,18,letter
+142,c44f10e73f8964bf52c2850bdab9f280b7900237cee76e39bc1b9172780c4311,Walter Benjamin,35,m,Hugo von Hofmannsthal,1062,1927,8,16,letter
+3,0fb76de57c4e4bb3ecbbecb4f79362eb08aeccf6a5f9a7ecb664ecf9a0d15e71,Walter Benjamin,18,m,Herbert Belmore,912,1910,7,27,letter
+143,5a31d7e1c873833beb4bfbefc56d7873ded2d0f36a46fa0dc48f171f6257d7a5,Walter Benjamin,35,m,Max Rychner,433,1927,10,18,letter
+136,00e0895953a97a5c9bcf9fa594ae56700170be4e7e344d6b1997ff079c133041,Walter Benjamin,34,m,Hugo von Hofmannsthal,1757,1926,10,30,letter
+133,b8bfbee0ed77725743354492147a1d1a136e8801b06d888398acaf24e32133f6,Walter Benjamin,34,m,Jula Radt,1247,1926,4,30,letter
+137,2bc964b067cdc01aa2abe9ccaf2295a284768f12c6d7bb1ae3e135c4482bf6a6,Walter Benjamin,34,m,Jula Radt,870,1926,12,,letter
+151,334be69d2f4a34b72fc84c8736a0046cbefdd0b6c60833601371ec691f1dc6d2,Walter Benjamin,36,m,Maz Rychner,1628,1928,4,22,letter
+264,4336fb0e9d77466c326d691865a225d5a058273460495faef9fe1518f22141e4,Walter Benjamin,47,m,Adrienne Monnier,261,1939,4,29,letter
+144,a9762a2c598ff31f888a61d14f62826059957bebcc7d6fc583409f1920748dbb,Walter Benjamin,35,m,Hugo von Hofmannsthal,382,1927,11,24,letter
+23,8a80cda256146d05f5db2c84489d359da40c7d4d848b1f11999c7d661df4537f,Walter Benjamin,21,m,Ernst Schoen,441,1913,8,30,letter
+256,6244a002d421dc7f43b99a3deb5826d44f830898a448e329f14d510af0ebbbba,Walter Benjamin,46,m,Karl Thieme,567,1938,3,27,letter
+40,7ca7777f128674273daa8a3c298ed6129a3921afe88e8848725b619c6fec158e,Walter Benjamin,25,m,Gerhard Scholem,1457,1917,9,19,letter
+43,4142f0c48c792f680ebfd7a191e478ae32f551cf2ef2fcddc14f7385948f52b2,Walter Benjamin,25,m,Ernst Schoen,802,1917,9,10,letter
+127,0e6b79296a4d1e4fd2a726e5e035b67d09c2d61bb84780dda99feac718c7d2cf,Walter Benjamin,33,m,Rainer Maria Rilke,410,1925,11,9,letter
+35,6fa2b6b8b2172a907073f85b48c1fb7e8d8e6bb7acca3a2bb5248e2079ca85e2,Walter Benjamin,24,m,Martin Buber,1278,1916,9,19,letter
+183,69b5585b3564a46f998b471f70fd6c4b887d9c47c19445a22f2e3daae4377684,Walter Benjamin,40,m,Tl1eodor W. Adorno,1229,1932,3,9,letter
+205,01646692f5e8f82053e3dea59496f5656a5cb8f8eb96c75a420e2edd3ff50d19,Walter Benjamin,42,m,Werner Kraft,726,1934,9,19,letter
+225,d8e2be50cf6ce45fed8392868ce98c012a977e2c4f007181bfa5e29cd6d9199e,Walter Benjamin,43,m,Max Horkheimer,463,1935,7,10,letter
+230,f67b95e256fc122941b0243999fa3ef6e865f564c4cb5406e05024371326a197,Walter Benjamin,43,m,Margarethe Steffin,630,1935,9,19,letter
+37,d7dc4a736586c38ae7eff5c8a8b753e79a02c51ae08184d871a5bb4568a04187,Walter Benjamin,24,m,Herbert Belmore,956,1916,9,19,letter
+36,66133fec2f81d609bfe2c7b13d7939151fdd90a4622c9c08362f588a2ecc719a,Walter Benjamin,24,m,Gerhard Scholem,848,1916,11,11,letter
+41,a5b8cc90b1b53be5314aa2dc08cf9c448a7cd3ff4944f6f4c823b61236427d25,Walter Benjamin,25,m,Ernst Schaen,735,1917,7,,letter
+48,3f55884866e26dc5c9ada0613b6bbe4c7d7d238a24eb80828a751f270b9a52a0,Walter Benjamin,25,m,Ernst Schoen,1255,1917,12,28,letter
+203,1688d4ddb3959cb96a9e1c5d07aa795c286b1869a617622fc24d532013faedea,Walter Benjamin,42,m,BertoZt Brecht,749,1934,5,21,letter
+50,c7b431db93a2ced125287e20ca2b98ef334bf21391ab628c0259b3aceb5f67e1,Walter Benjamin,26,m,Gerhard Scholem,1067,1918,1,,letter
+59,a3b98f8d4f28c8fb1d415f69a0c1f2ea65aa386637c0d22fb3c20da8d7f37432,Walter Benjamin,26,m,Ernst Schoen,1194,1918,7,31,letter
+51,1335211a52a7c006c72d062a55e4de1f58a8f11a489fcdef12872552105171d7,Walter Benjamin,25,m,Ernst Schaen,1075,1917,12,,letter
+53,42d5bada2d801beec77580661849352b7d532fc0bb971307d23651349b54be13,Walter Benjamin,26,m,Gerhard Scholem,1106,1918,2,23,letter
+61,6a34dcec1de545712d9a78a4354edf1fa1b8ef5e9c4f64351312aa99c2410d15,Walter Benjamin,26,m,Ernst Schoen,2682,1918,11,8,letter
+58,20d50cc38022224259074775bc9c2ae2444cc56539af11fae42ccf5c5a838737,Walter Benjamin,26,m,Ernst Schoen,2309,1918,6,17,letter
+179,b4435c3e90d1bd9748daf119e15b8fe0ca73dae81325a15afd54c08d0856813f,Walter Benjamin,40,m,Gerhard Scholem,1575,1932,4,22,letter
+271,2891fb86d1c4973285c95d7269c22e61621473b1812099d3e2b4736124916bfb,Walter Benjamin,48,m,Gerhard Schalem,903,1940,1,11,letter
+141,253ff55d44a384dacd834efc80037fc216bd3292a675cc08e8063a6e0ac23b6b,Walter Benjamin,35,m,Martin Buber,513,1927,7,26,letter
+54,b136a69138e3f23c5f6d5d5b1a4201980fbf4d66cfd750455cf6aec0f06e85aa,Walter Benjamin,26,m,Gerhard Scholem,2779,1918,11,,letter
+46,83ff520313317e3224074063ba213224188a85e6fad7a1d3ffb06796d1ddf43f,Walter Benjamin,25,m,Gerhard Scholem,1150,1917,12,7,letter
+56,31f5c76ea06b85a583d04686eaf7b280be5b50231c843eac7847821e182fafec,Walter Benjamin,26,m,Gerhard Scholem,642,1918,4,17,letter
+47,655f3b3d49136c4001f174eabd22f874d60fa5d77775ff998fa9378e9132b776,Walter Benjamin,25,m,Gerhard Scholem,1538,1917,12,23,letter
+199,170286db98a5f187f44bc228f6748d4b312919f75431219f8b7cfea71b471443,Walter Benjamin,41,m,Gretel Adorno,546,1933,12,,letter
+57,bdeba8ff77780f91768868e5c89fd5f1fe1f55c3c45262cd7cd423843703d147,Walter Benjamin,26,m,Ernst Schoen,2627,1918,9,19,letter
+196,dea7b1fbf42ad8caf4bb8fd541b9f1c8e2198cd1d59737ec2c677fc79869585a,Walter Benjamin,28,m,Gretel Adorno,1139,1920,7,,letter
+189,7f251e6302abf00d2b4423ff842d813f48ea1544cdcf4d8fb65ef95198f19fee,Walter Benjamin,41,m,Kitty M arz-Steinschneider,701,1933,5,,letter
+49,f8607b8165c044c1287db64fece505fcd68246818e58e1edcbc115c644746309,Walter Benjamin,26,m,Gerhard Scholem,1270,1918,1,13,letter
+64,21c381e19f7db6317d16f5b155f69734fa3ad5ab1679b5511c63ce18cb81a653,Walter Benjamin,27,m,Gerhard Scholem,79,1919,9,4,letter
+258,25d82526759e074a853d1938ce0e6d46587ae4e2ce9a35beaad9035fac3adfd3,Walter Benjamin,46,m,Max Horkheimer,393,1938,4,16,letter
+70,66c3ae0110d2a58c98f81faa516d63959432479e1fc1f0933b44fef8a87b1ff1,Walter Benjamin,27,m,Ernst Schaen,1411,1919,9,19,letter
+65,83195d025c0097c1c749be5d4b18c1664444ff9c7c37440429bb42d9147ab397,Walter Benjamin,27,m,Ernst Schoen,688,1919,9,19,letter
+75,e788e7b7f989207a5626df2a4bad3bd1261f0bbc608f3a5a0b5215f29b32a86a,Walter Benjamin,28,m,Ernst Schaen,1081,1920,2,2,letter
+76,1d95984d90c6a8a284efa22a4e82b38f8406b1a3842bf64970f983b937d06732,Walter Benjamin,28,m,Gerhard Scholem,1314,1920,2,13,letter
+180,fcec86965e20df1511cba8c8528156d35916e1ca7490f6c75fba9a3c787930e0,Walter Benjamin,40,m,Gretel Adorno,10,1932,9,19,letter
+228,9f512bdabdd5c585f78d5f7141e0b0a9f8386d9f6a9402f5328e6e6e25dda289,Walter Benjamin,43,m,Gretel Adorno,1515,1935,8,16,letter
+145,e1788ca0e528f93aa7136b16cf49e4cff6bd07b9269938f180663943d27371a1,Walter Benjamin,35,m,Hugo von Hofmannsthal,317,1927,4,12,letter
+69,baa9e3207e002f475f45640205a283b7d11bde7e7aee2f9eec64fb8cf45d2576,Walter Benjamin,27,m,Gerhard Scholem,457,1919,9,15,letter
+63,160937b3e0dcca3e5e02e602fe60c6b6870b1cef1ce788b5f0d5aa6cba11d61a,Walter Benjamin,27,m,Ernst Schoen,262,1919,4,7,letter
+68,5b7928727674a050f8561911c7332004a1339443e304cd7872bac4265da8de51,Walter Benjamin,27,m,Ernst Schoen,2006,1919,7,24,letter
+71,a923527f1e51d8511d6aa8db5eceae447d8e5d7616f1008f40d668e8bbe3c016,Walter Benjamin,27,m,Hüne Caro,450,1919,11,20,letter
+73,9e13d766204ffbe1bf8c7952eb0150c4ae59a4db876b2fa0f5137b99b48e668d,Walter Benjamin,27,m,Ernst Schaen,1168,1919,12,,letter
+77,4d5553fc4528582174f8e697b8195ac2bb8b573d99ce7d20ec251e74f227575e,Walter Benjamin,28,m,Gerhard Scholem,779,1920,4,17,letter
+83,a1a9d2e83cd8eb60ec9d02aff963154a5cb78061600bce9f6bd416c4799a77f4,Walter Benjamin,29,m,GerJiard Scholem,1199,1921,3,26,letter
+78,4ca234278d1780dbead07241df496aaa272d8e75967bfe6b9b577c65388c6601,Walter Benjamin,28,m,Gerhard Scholem,1198,1920,5,26,letter
+85,290e8a1033ad712ba19141234f4da2edcd7c2bf2b02ecfddcd60275677b1b36c,Walter Benjamin,29,m,Gerhard Scholem,285,1921,9,19,letter
+181,237d8d8ff6e9df556e2a3ae7697a55a558306b41767bc27cb69663fa37e3ee03,Walter Benjamin,40,m,Gerhard Scholem,680,1932,6,1,letter
+80,c0b057625cebc9261bf1e42a4e217184efb0cb0884980dcf7607f24e16fcd1d8,Walter Benjamin,28,m,Gerhard Scholem,1397,1920,1,12,letter
+187,3998b938efd1221d4146670419fbe71b97959f911c11bc0bac45aa5dafbc3134,Walter Benjamin,41,m,Gretel Adorno,1598,1933,4,15,letter
+88,31ac547a8abee78a05345f500da61499ed97d4dac0e50ec62c933e11110ad533,Walter Benjamin,29,m,Gerhard Scholem,936,1921,7,25,letter
+45,196304a49733dadd1455ea76884bb90499ce38fd34fb45c6c8f3cc3602657864,Walter Benjamin,25,m,Gerhard Scholem,219,1917,12,3,letter
+33,0334ccf8dc94583d9ee6b0bfc8570e50e61e8883a25c0e8dba573e648747e703,Walter Benjamin,24,m,Herbert Belmore,301,1916,3,25,letter
+89,92162e21016931430e0a5f1a34e861769310e4c4325c66bf444d8d999b6bfff1,Walter Benjamin,29,m,GerhardScholem,1130,1921,8,4,letter
+74,8686ea3b343c4b86088ca1b5e8d9604ddd0eed96a87c448986b902d47ce346f3,Walter Benjamin,28,m,Gerhard Scholem,1181,1920,1,13,letter
+90,424913dfc1acd714aee79c9c6094d21fa9a68c5b2f00055770c56956a722ba29,Walter Benjamin,29,m,Gerhard Scholem,1041,1921,10,4,letter
+92,8d0edec02acfad4e45763126f09df1f8a175a1a7bbfce095613a5d6551a5033b,Walter Benjamin,29,m,Gerhard Scholem,1108,1921,10,27,letter
+97,82538a4fe88a53d939589fca4727a63fb6855bf3405b117e55b742b713890078,Walter Benjamin,30,m,FZorens Christian Rang,2372,1922,10,14,letter
+106,5ccbedbc116134bbe24ff6520d55ce06ce09821ceaa07cd48be168dd9f92f7f1,Walter Benjamin,33,m,Florens Christian Rang,1997,1925,11,18,letter
+152,5f90e1a10cf2f324adb8bbd37e2ae9f9efd7d103841a257bb6d81735507af3e1,Walter Benjamin,36,m,Hugo von Hofmannsthal,375,1928,5,5,letter
+101,7f54ba8088c5a64ee91cb42bfba29ab14f47936ff2d7fed6d805cf1764f4acc4,Walter Benjamin,31,m,Florens Christian Rang,561,1923,2,4,letter
+103,5d3a1b4a319a847e61c0ea2121160599c080f7f8392f54a2be91335d562a1b11,Walter Benjamin,31,m,Florens Christian Rang,1123,1923,10,7,letter
+108,9cba5bc7952f74e6b2ff0dd4439d7e38ede02dac202989671134e585fc3fb672,Walter Benjamin,31,m,Florens Christian Rang,1647,1923,11,26,letter
+126,c7b26d666fcc54055d992701923a876fee2969f329efa430a61c826eafcc303e,Walter Benjamin,33,m,GerhardScholem,1464,1925,9,21,letter
+110,f4ca9ffe7fb86645130b86bc8025ca98dd17a0f129a6e66e469b5ba11cc5dee9,Walter Benjamin,31,m,Florens Christian Rang,1832,1923,12,9,letter
+104,3319955c50515e0f5ed7a18fcff049ed94e49bad825ad068a1bd385e0e7fbef8,Walter Benjamin,31,m,Florens Christian Rang,854,1923,10,24,letter
+111,01dcfc6a3c01f96233574b0980eab4d38cd251348a4223d6ccabb4311ef1a06a,Walter Benjamin,31,m,Florens Christian Rang,946,1923,9,19,letter
+102,6ec4b91e169c66429c02e1b8d713fd556dd55be04e6bc54ed0ec9bca33c0bab8,Walter Benjamin,31,m,Florens Christian Rang,768,1923,9,28,letter
+107,ed0a1b07cffc93475fa23d9e3553ab535adcf6b573e5a39c7515c00acd643b8b,Walter Benjamin,34,m,Florens Christian Rang,757,1926,11,,letter
+99,a9bc56236b40e84486abc011f12e3c68900372058f1ce0ee75a295ceb8a48a91,Walter Benjamin,31,m,Florens Christian Rang,109,1923,2,4,letter
+112,5234a268fbb5f8ca41af5fb73d3b0dde869b03d33125cb404a1275dd8ab8ba41,Walter Benjamin,32,m,Florens Christian Rang,995,1924,1,10,letter
+100,9cfee7dee426c22fb4f936e419fe1466061854723775da597b2804b653fc9dac,Walter Benjamin,31,m,Florens Christian Rang,655,1923,2,24,letter
+113,ff2d3ad03270c6a3533ad374c124a89902fc62f324ee5cb3bb58559cf440cd0c,Walter Benjamin,32,m,Hugo von Hofmannsthai,1606,1924,1,13,letter
+105,6ca0ed9b723a4878aad52ca0c44cd34827721c408d913756ff582fa3a4756f12,Walter Benjamin,31,m,Florens Christian RaTJg,595,1923,8,11,letter
+67,8bde84e74208a71422a58c97ce1d4621b6d66ea626743a57584b50e803494e5c,Walter Benjamin,27,m,Gerhard Scholem,404,1919,7,19,letter
+128,533a43e6a0931f72e0011196ba339e4a2371e93c6231339b4f441cc41968e1eb,Walter Benjamin,33,m,Hugo von Hofmannsthal,1007,1925,12,28,letter
+129,d1b1a82fde336404a3cd2fc8cb10f2a868232f335d6712035a8b476780a1b839,Walter Benjamin,34,m,Gerhard Scholem,1573,1926,1,14,letter
+130,8a8f8c8e4cd8fb9031395d9c63bead4bf2b884ed376ace93baf5cdc991ceafd9,Walter Benjamin,34,m,Hugo von Hofmannsthal,1137,1926,2,23,letter
+131,59d7769eb42b32c6c0b5713c04dc0a423078fdc415f995a4ef753d8a6c611a96,Walter Benjamin,34,m,Jula Radt,2218,1926,3,22,letter
+158,0776c63fae9a4ac9106fb98d3510b873f496fd6eaa4748d7ed8d41c8b38a2be3,Walter Benjamin,37,m,Maz Rychner,542,1929,1,15,letter
+60,afe925f4005391411d95ccedeaf701cf8687bc8961a045dee3c9b8585e32fc19,Walter Benjamin,26,m,Gerhard Scholem,403,1918,9,18,letter
+147,8e0337d82000886a95b99413105417b84fa7b580b8f14654db08714fe61d58de,Walter Benjamin,36,m,Hugo von Hofmanns~hal,744,1928,8,2,letter
+148,6ddb6657422cdff2ffb827a618d37e401523dde776276bb63e4e2629ada148c3,Walter Benjamin,36,m,Hugo von Hofmannsthal,123,1928,2,24,letter
+149,459a196aa9caf4e1b07663af6192a85a2db7f509972c62539fc9d03486f16a58,Walter Benjamin,36,m,Gerhard Scholem,615,1928,3,11,letter
+150,1d392f7df72d7cc9acf4219f8d1ccd93d021d22471b58254b67ca947ae72abcf,Walter Benjamin,36,m,Hugo von Hofmannsthal,1097,1928,3,17,letter
+188,b95e682337bc107ab0fa8417c9a14899445cac93b2739dcb4605ac1065f002e0,Walter Benjamin,41,m,Gerhard Scholem,399,1933,4,19,letter
+79,d72e7ffd7657d1f487081cc6501a8704cd280dbb77e82e456ce9e66eb96bb75f,Walter Benjamin,28,m,Gerhard Scholem,360,1920,7,23,letter
+159,ff38068dd3ddec85b0439bdb5e4d2fe6dfb707c287eb603cf94c3eda2757b8b4,Walter Benjamin,37,m,Alfred Cohn,592,1929,9,19,letter
+176,456e877f6a9e5286a4b577fc1b4e3bce18cae5d0c64dd1ad26567742ee32c687,Walter Benjamin,39,m,Gerhard Scholem,1954,1931,10,5,letter
+211,8a3977b3fc53d30ac0817f031eaface72266803fdaa65825a6c97223e7ed4413,Walter Benjamin,42,m,Werner Kraft,1685,1934,11,12,letter
+212,d21eb9988288a6b9b7690f9966ef75d46cf5b80d619f8f5a7dbea54964d85876,Walter Benjamin,42,m,Al/red Cohn,882,1934,12,19,letter
+213,438257b2a0e000d8cbe5870bf1fc64a0335e19d545ba469b88d375c2ba0135c4,Walter Benjamin,42,m,Karl Thieme,1331,1934,12,25,letter
+163,28acdd903f5d99531ca1f78cd6933552acb7e5cc5f504d40838225baa176dc79,Walter Benjamin,37,m,Hugo von Hofmannsthai,943,1929,6,26,letter
+170,3a581deb73402851d2e7eab04410d6ef4f2f359194a63cbcc0afede55fdcb4d8,Walter Benjamin,38,m,Gerhard Scholem,1002,1930,10,,letter
+172,963e3598a41ff05e9244785b0f1d95c1955602b55be987895aeff52bc33872a7,Walter Benjamin,39,m,Bertolt Brecht,741,1931,9,19,letter
+208,e9a4b8465b25b5233846116267d7635f5a1bf2e8953a75d8a93b96792cb0d1a0,Walter Benjamin,42,m,Max Horkheimer,289,1934,9,16,letter
+98,517686d38f3b91ea066cb3afcb5e343c4896bec09929edb7c68091b5b21c6c65,Walter Benjamin,31,m,Gerhard Scholem,384,1923,2,1,letter
+202,98e7009a922898a8a352036e381c67419853883bc6112b522a2f49f293814e9d,Walter Benjamin,42,m,Bertolt Brecht,526,1934,5,3,letter
+193,22e043e5a20eddd67e91f9ecb9485c1dc635804e491b2bdc792313f93c53e363,Walter Benjamin,41,m,Gretel Adorno,2173,1933,9,19,letter
+194,b66f57d53d1ca5ad8b9217578706c3d9cfb5c415a5533cc6f312cb82bd1843f6,Walter Benjamin,41,m,Jula Radt,1204,1933,7,24,letter
+197,4ce57770680a10025efcb825692de5c8e6fef328814ddbd7bbb5c26851bec2dd,Walter Benjamin,41,m,Gerhard Scholem,472,1933,10,16,letter
+198,cdf60df6f2247e34d82f88fcc85f60e2d4a9c9c14d500008863144f2188a49e8,Walter Benjamin,41,m,Kitty Marx-Steinschneider,791,1933,10,20,letter
+201,dc77fa68289e6f9142a88024de9df6e78cbe6e184eb13cf4dd605b1349905f6c,Walter Benjamin,42,m,Gretel Adorno,901,1934,3,3,letter
+200,98fb7d2de049319de01738fd2a374579834ad1fab13bb764a32c4629a9e8590f,Walter Benjamin,42,m,Gerhard Scholem,303,1934,1,18,letter
+192,fd5c0603cf582931b683a87656642aa12f2f6f849dd63a84069462bd8d7b05a4,Walter Benjamin,41,m,Maz Rychner,369,1933,6,,letter
+210,3751af4383e147f941abbe1a71252096a1ca2673246eea2e575688e079b2a030,Walter Benjamin,42,m,Max Horkheimer,986,1934,9,19,letter
+209,20daf744b598e387dabc22c65df9f66d7f121734b49477138f59105a0f0d09bb,Walter Benjamin,42,m,Gerhard Scholem,621,1934,10,17,letter
+42,e2d397d317cf1a825c09c3899beab72c0170a511a00c86ec17e52f30e1d7fc61,Walter Benjamin,25,m,Gerhard Scholem,570,1917,7,,letter
+215,5ebf6c91de4656522e7bae5ec59a7734b6ba5a44636bfdf03097a6e1a6657451,Walter Benjamin,43,m,Theodor W. Adorno,1439,1935,7,1,letter
+217,60aed9cb56a7e81bbd5a84ec3147127cec480b1994198f01e1b1e30ca8798b74,Walter Benjamin,43,m,Werner Kraft,525,1935,1,9,letter
+218,6119ff293d7dbe45dbff9a08cc4cbfd9c92c565caadf44f1465235d0191dad67,Walter Benjamin,43,m,Alfred Cohn,1400,1935,2,6,letter
+12,0aebab8961c5d57b672ecde4c466026590bb44888dd30e023ec05740db36c6d7,Walter Benjamin,21,m,Herbert Belmore,402,1913,2,5,letter
+253,c12de387307607f21b1ed03e2006d807b8195f8dd4e442eba8be2c3101ce1531,Walter Benjamin,45,m,Karl Thieme,787,1937,10,10,letter
+219,3cad766fa87b522d91be38e2869f89172a65ce7a0ea0ddcccfbcdc76990fb544,Walter Benjamin,43,m,Maz Horkheimer,563,1935,2,19,letter
+254,b0988158027469f7ad22666a30a882a00aa4fb4974cb0f05cf5430280e226221,Walter Benjamin,45,m,Gerhard Schalem,443,1937,11,20,letter
+257,83fc8606f0699088e2e2433bbfcf2bc5786867f4baaed664932376cd81e58eec,Walter Benjamin,46,m,Gerhard Scholem,862,1938,4,14,letter
+224,72231c584a166a0611ff0298d6ff268b6c4225d0766db1eaeb0cb0cec7520ace,Walter Benjamin,43,m,Theodor W. Adorno,2120,1935,5,31,letter
+38,5b26ec202644cb159ca58a120bc6a07737c06f9f30f21f8297716d6280115500,Walter Benjamin,25,m,Ernst Schaen,561,1917,2,27,letter
+220,cc10643a692957d5b959d0a6944e16a84f94b0b4f0e7f3834e9c9353fc88b2b2,Walter Benjamin,43,m,Max Horkheimer,448,1935,4,8,letter
+223,9fc8222c8babef9486a594ffcb9a34051a78309be61646ae5d674a44a0534860,Walter Benjamin,43,m,Werner Kraft,1402,1935,5,25,letter
+216,e2311dd25e5982d91f8f0e51c36f9d8ed4f9dd4a1cb24181a604880a4c830b6b,Walter Benjamin,43,m,Bertolt Brecht,706,1935,1,,letter
+273,5e9e7c14d694b90cb84b857cb1dd7e570e0d249357cc4cf044d8910b94bfbe74,Walter Benjamin,33,m,Theodor W. Adorno,1097,1925,9,19,letter
+222,d75c2a887c6f8eb0b8e18ce952e79fcfc9fcda86276345e0f0695511c6f38313,Walter Benjamin,34,m,BertoZt Brecht,660,1926,5,,letter
+6,4d858066d0c6f2154c57925b1b9a82d9e3984b8ced968577347c56cb1f09de2d,Walter Benjamin,19,m,Herbert Belmore,2042,1911,7,,letter
+153,7b0bb23f3c2ce73e77ed6dc043a9b852735631014f907279189a1fb99a08f461,Walter Benjamin,36,m,Gerhard Scholem,1574,1928,5,24,letter
+146,40231afa7c7bf35c2c7cc292759a4bae9536553d7e6f0f543bb50bd1d7fd063c,Walter Benjamin,36,m,Gerhard Scholem,2489,1928,1,30,letter
+154,ea1dfc14afa95748d303021f7085d55631031b33546479efbf1a737eab7f8bb0,Walter Benjamin,36,m,Gerhard Scholem,921,1928,6,18,letter
+155,3aac9649eb2271bd6b8ed5a4bb603ea6e9bdcaf42103459eb2e1bd06066ebfd9,Walter Benjamin,36,m,Gerhard Scholem,1754,1928,8,1,letter
+167,33691ae3f41826e3552d3211e2003479cee7c502ffbaad9b4d6a683bf98a2f80,Walter Benjamin,38,m,Gerhard Scholem,2180,1930,1,25,letter
+164,a7bdaef7332924fb81cfb48c7758c008f4b9890f0fef6c84ab3e4a0e267a5aea,Walter Benjamin,37,m,Gerhard Scholem,914,1929,7,27,letter
+168,28f26fadef921dd10428f792e5c868332d3063e88711203d2aa3ea2372fc4b62,Walter Benjamin,38,m,Gerhard Scholem,847,1930,4,9,letter
+169,060272f5f9f8e48ddc1539a609d0807f48b163c17745b4fa5d6f7c4b1c1c4696,Walter Benjamin,38,m,Gerhard Scholem,1036,1930,8,15,letter
+242,568047d0970c2ffbae528fb1672123775975e755c97f836cba73eec7ecd8ae47,Walter Benjamin,44,m,Max Horkheimer,1213,1936,8,10,letter
+232,28b6e214f25df152afbc0bdbd3d4023f83641235925e2ec2a47a24025fd8debc,Walter Benjamin,43,m,Kittr Marz-Steinschneider,340,1935,10,24,letter
+233,4e3c658852e339313303e5071df37f4b93c5f3f6ba6cfe1afa78dbd0f10c4a92,Walter Benjamin,43,m,'Ferner Kraft,843,1935,10,28,letter
+255,61cdd2106f7655ad0c30fce1fe550535805d6b836bb7497ccdccf40d7df8cf18,Walter Benjamin,46,m,Karl Thieme,1095,1938,3,,letter
+234,035991f84f139c78c099f1a7c0c7d0774941d9f08d85fb3a32b6b0ad1991cae0,Walter Benjamin,43,m,Werner Kraft,433,1935,12,27,letter
+265,331e53c2aa82527d22b35b4714e2b1d6b992226021af0ae6fd7befcaf35cf3be,Walter Benjamin,47,m,KarZ Thieme,748,1939,6,,letter
+235,607eebba793261579ececef3bfe360bce2ab207194d6d57829d13b663e7267a6,Walter Benjamin,43,m,Theodor W. Adorno,1726,1935,12,27,letter
+236,f6e529b79274476d7f7a4d41f6e1980083bdc4735ef742d9300b53fe840bd07a,Walter Benjamin,44,m,Werner Kraft,694,1936,1,30,letter
+243,98e8ee58e29f03888dd96221421393bcd412edf6126fbc786efb60efc340b143,Walter Benjamin,44,m,Werner Kraft,941,1936,8,11,letter
+238,8013b034a593804e9edcab03991d611cb5284526057743b80083ec8b92143bb6,Walter Benjamin,44,m,Theodor W. Adorno,745,1936,2,27,letter
+237,844e1d95a9d588556b99723d6bd73367247c6cc371f5bd9fd6f42ee40b862b84,Walter Benjamin,44,m,Werner Kraft,594,1936,9,19,letter
+239,3cda9d8f16a97813d78181b78e4f0b5844ec80285c18805d1ba90dcec3ea835f,Walter Benjamin,44,m,Kitty Marz-Steinschneider,1668,1936,4,15,letter
+241,734bd4a90cb0c7127ffa5ebb166c9139f6baa4abe0312c2b8a70899c25d32d7d,Walter Benjamin,44,m,Al/red Cohn,620,1936,7,4,letter
+250,7a41ff06983446e3a0f544dba0593f764253cda3c670103162348a038d629d75,Walter Benjamin,45,m,Fritz Lieb,1094,1937,9,7,letter
+245,f28fe5549ce81dd4b3b56f7812541d6cbcbdad56ec773773cfae70d2036b5656,Walter Benjamin,44,m,Max Horkheimer,1216,1936,10,13,letter
+251,ab5401a8cbc62152a79ae93f297292c18fe7937f463def2957ef6fd7f2822274,Walter Benjamin,45,m,Gerhard Schalem,760,1937,8,5,letter
+252,b70e50eb5952527a4aee6c146a1cac1da2d09690b5020cf2c930b23b94c32d93,Walter Benjamin,45,m,Max Horkheimer,313,1937,10,8,letter
+246,cc2adcc6533418c855adba2a408737de86be586bff394825d38454bf6dee9001,Walter Benjamin,44,m,Max Horkheimer,683,1936,12,24,letter
+247,edc5e534db0455aa050c872a1c0affffb4475bef0ebf416e57ff4f311f66123c,Walter Benjamin,45,m,Max Horkheimer,624,1937,1,31,letter
+263,a42f8e9e6e3aaadd6f6cb26d85d7c97abcfe395125c0eb8511856d1e150dabc6,Walter Benjamin,47,m,Gerhard Schalem,2005,1939,4,2,letter
+260,f280bb7707399e979789aa4ef6da6cedec3376f41f441d1990b110dea5dca60d,Walter Benjamin,46,m,Gerhard Schalem,2373,1938,6,12,letter
+7,7a0f7500c1ea7a570bd923ba4d6adfd137084245585277958caa630ed6cf5e03,Walter Benjamin,20,m,Herbert Belmore,828,1912,5,,letter
+18,7e1869766a182a8fe565e2c425bf0915fb62be07e323a1f3e509d9dc045f282d,Walter Benjamin,21,m,Herbert Belmore,1243,1913,7,3,letter
+261,900485719c3e465e21c7f3d531ffc4ae8e331fc7ebe004c46493307b5322d71d,Walter Benjamin,46,m,Gerhard Schalem,1645,1938,7,8,letter
+267,b362bb2f043d92f2b33c82b66d0a9e39ba8551bef8b1eebb78409c46e379509e,Walter Benjamin,47,m,Gretel Adorno,1914,1939,6,26,letter
+262,c5b388dbbe5fb29397836a736e4f6c981a2f69310273fdbdac50ae44cdd800df,Walter Benjamin,46,m,M ax H orkheimer,3207,1938,9,28,letter
+266,203ee4e150144bf8dd774d5d7c54632e3816a6810c2dee1681e617b878bacb2d,Walter Benjamin,47,m,Bernard Brentano,1630,1939,6,16,letter
+39,0f631750412ac62ca3ffb6f87a9c035c1cdef907b42567c55d1150f657d51347,Walter Benjamin,25,m,Gerhard Scholem,776,1917,5,23,letter
+272,74e49828a428b12506be3de5cd58a8ca8f2728a5cd4c58188712883b5915354c,Walter Benjamin,48,m,Hannah Arendt,251,1940,7,8,letter
+28,1fc0512b2d4867dcb05c1123cbd63f3712fcc6e59705fcfd870472d00c4c72f8,Walter Benjamin,22,m,Herbert Belmore,1685,1914,5,6,letter
+25,34dc259042778d2b52e59cd62c64485364e99cfa1ca86354e5be97aeb4de59dc,Walter Benjamin,21,f,Carla Seligson,221,1913,9,25,letter
+27,a4bda8b45b25cbe4061915140bc11a1ed132b444bebb8f6febad53ff8c4c039c,Walter Benjamin,21,f,Carla Seligson,1102,1913,11,23,letter
+26,0e77820edb5042da14d63527aec9f21a80cdd542138a1a8fe294993b82be1436,Walter Benjamin,21,f,Carla Seligson,855,1913,11,17,letter
+44,4b906ce3dcfa2d31fd23b6f694347fb08069014e1d2120e368ee770f701853df,Walter Benjamin,25,m,Gerhard Scholem,3454,1917,10,22,letter
+157,86d56c82d185a4399fd770f25d4ce78c1a64e2d7daf667750210f27986969392,Walter Benjamin,36,m,Gerhard Scholem,1194,1928,10,30,letter
+161,560cd04b2e418b6fdec342914804bffaa11c1ab74a28c8e18dc9c5500a3ae554,Walter Benjamin,37,m,Gerhard Scholem,848,1929,3,15,letter
+160,2bb2db93be188ad4f12f67942e170dcb7ad6e2496763936072031d683803c2c2,Walter Benjamin,37,m,Gerhard Scholem,1294,1929,2,14,letter
+162,100dbe2c46b199851cdf6323bbad1d156c61c8e4954208ec5ade556cde28f798,Walter Benjamin,37,m,Gerhard Scholem,754,1929,6,6,letter
+62,8b9490b87ea6001e3d65480649b6283b7b180a514cf722b99a5f913861464a39,Walter Benjamin,27,m,Gerhard Scholem,155,1919,3,15,letter
+52,6ac829314976ce1eba368a9b8252e9953753033aa48e59308a1580aee6e48955,Walter Benjamin,26,m,Gerhard Scholem,115,1918,2,1,letter
+55,55ca6c765e5d70d47da75a1ffc02bc01759fc7f95ed957e5a92ea615bc203eca,Walter Benjamin,26,m,Gerhard Scholem,144,1918,4,11,letter
+66,0d2e8b84b57b562c7f7ebcf89184e8b3d08893b6972b67789a9dae22781f9bea,Walter Benjamin,27,m,Gerhard Scholem,142,1919,6,15,letter
+72,15000bd05ee25e957487f102c8fc805c074f17c867e34417364f60c1c4392518,Walter Benjamin,27,m,Gerhard Scholem,1390,1919,11,23,letter
+87,522507c9a850c7f39b5fa6ed7ddd141ea6d16d7f4832011073427dfaf81efbd4,Walter Benjamin,29,m,Gerhard Scholem,753,1921,7,20,letter
+86,c761b2a863ef429b58ec2c7add60eb1f69a3f46797a00b49b1cfd1fcb0d12692,Walter Benjamin,29,m,Gerhard Scholem,597,1921,7,12,letter
+81,5b45ee40a47dd1ae79a84d500de4f9236ff3ba51d5c5a7b32f37046e68a04e03,Walter Benjamin,29,m,Gerhard Scholem,2166,1921,9,19,letter
+95,6071fcac4a86c525f82e29417496eb820f97749ea873a275f649b222885c32c4,Walter Benjamin,29,m,Gerhard Scholem,588,1921,12,2,letter
+82,8f7b50e08e08e3711a920594099dca9631067dca9055727b01785e75c5662ebd,Walter Benjamin,29,m,Gerhard Scholem,978,1921,2,14,letter
+84,74cc43d6e719515f6704301715bbe20ae2692bbee31814eb2d05b82ba1d9e9be,Walter Benjamin,29,m,Gerhard Scholem,513,1921,4,11,letter
+96,1a66725413a71ae6a8bfa1662253d34420b0ef642dc293bd9e4970e32ec93ca6,Walter Benjamin,29,m,Gerhard Scholem,1316,1921,12,17,letter
+91,7db3023b2d30dd5b8dcb0601d3bc79f0de343179df1be836cee6c689ffd65789,Walter Benjamin,29,m,Gerhard Scholem,881,1921,10,9,letter
+109,c28afa75ad572019bdb0bf6a5612b7d1ca2be73c348a3cf8930c01ef8ef745a3,Walter Benjamin,31,m,Gerhard Scholem,845,1923,5,12,letter
+94,e6d28c23605e2ab285cb3edfd6e80d9ca847348ecc406db6372e107a4526eb71,Walter Benjamin,29,m,Gerhard Scholem,851,1921,11,27,letter
+93,4cc1a19f36a5708dd827718b8f8a1eea68423ee110b1540d7e0f4b8dfff1ed48,Walter Benjamin,29,m,Gerhard Scholem,750,1921,11,8,letter
+115,15faae8368342c4ec8fd305ebbb4c4aed0373133762647b5136278fed5ec2db7,Walter Benjamin,32,m,Gerhard Scholem,2568,1924,3,5,letter
+116,1ce59a5166d8170fe7255cf45c12fadf2ea41d62e1e51b96a29a45b0f0955555,Walter Benjamin,32,m,Gerhard Scholem,3554,1924,9,16,letter
+119,992c79e4ade31687588233668b5d3adb2e58cea8241235b057de1d88c5b25c7e,Walter Benjamin,33,m,Gerhard Scholem,1688,1925,2,19,letter
+120,f65f35a5cf4c81fa60dc76aa8f9b9e33b0b8b2fae7762b6970a03f2d0fd06f3c,Walter Benjamin,33,m,Gerhard Scholem,1840,1925,4,6,letter
+124,5f827ed824b5377637d6f38f09635f35be407db0d5295519da16d8be3127acc5,Walter Benjamin,33,m,Gerhard Scholem,3307,1925,7,21,letter
+134,2b143b381edbd02fda94829063dce310bd09e4c6140cf516a2e5cc8c6cdd777d,Walter Benjamin,34,m,Gerhard Scholem,2606,1926,5,29,letter
+138,ab4b28365732b10600091842d4ce60a14946ecff927cc34b630830b9f726e40c,Walter Benjamin,35,m,Gerhard Scholem,506,1927,2,23,letter
+135,af599398697f8ab0ddd8997c193db279d008db3a2fa4fa6f9a617a96da12e257,Walter Benjamin,34,m,Gerhard Scholem,2222,1926,9,18,letter
+249,0e8940c3c200a14df2ff7ebd2a543a6e91e063ba5dcc8c868ce728f70364e2ca,Walter Benjamin,45,m,Gerhard Scholem,531,1937,7,2,letter
+178,5597cf037f55b8a613c24ba7565eb9cb5a11e705701eadd1a94a7710d70417e8,Walter Benjamin,39,m,Gerhard Scholem,1607,1931,12,20,letter
+165,f9b937ac0e80e8cf53079b02672686db9d81eda11b3324a003f09c9a58906afd,Walter Benjamin,37,m,Gerhard Scholem,169,1929,8,4,letter
+175,9c69d1de08b1f92fdf054ecb629c200dc65326a10d0c672d23e53002027a5bd9,Walter Benjamin,39,m,Gerhard Scholem,1210,1931,7,20,letter
+186,5be30f418173bd3f53b9eb18a9835bbb8f61c2a9896ddbc2f6b86e8da477bd26,Walter Benjamin,41,m,Gerhard Scholem,864,1933,3,20,letter
+174,de1f1f2c288ff86e3addaf671378e094fcd5f6066d367501b369040293807096,Walter Benjamin,39,m,Gerhard Scholem,2121,1931,4,17,letter
+191,011d36c5f54a255fd245199c5b636536551d1f92ccb15cedc669470cae5a5320,Walter Benjamin,41,m,Gerhard Scholem,1644,1933,6,16,letter
+182,6c12ad901230fee3b6ed97a76e1217086a42e1271635c333b3a9dc40edf8fb9d,Walter Benjamin,40,m,Gerhard Scholem,909,1932,7,26,letter
+204,665e022c6a10082edbf4c7f984b3ce286f2251dacc8c143c2ecab8f6682c4a42,Walter Benjamin,42,m,Gerhard Scholem,1014,1934,7,20,letter
+190,041ac92f47245c151f603c1df6a5f1429fdb27bc38bca3274a4e52d929d274a7,Walter Benjamin,41,m,Gerhard Scholem,596,1933,5,23,letter
+221,aa009ed92752cddbe2b296159f36bce32c36554ad467b780f67776e803698e23,Walter Benjamin,43,m,Gerhard Scholem,1690,1935,5,20,letter
+195,9ea0a12f5361a191eabb805c05da4acfb4565f51f7da23a34aeffd9cca23a5c7,Walter Benjamin,41,m,Gerhard Scholem,791,1933,7,31,letter
+240,84aa164071589678b5ab88a3795258068b9a3341c798f52f37bd695544b6dcfc,Walter Benjamin,44,m,Gerhard Scholem,670,1936,5,2,letter
+214,606514175b692241932ddf3d143ed4551ed545f5a95fb3a76f03ef4026da93cf,Walter Benjamin,42,m,Gerhard Scholem,881,1934,12,26,letter
+248,c0566fd65fdf410aed278a3009854c92146c8313a6a406a178b0b12ca8371e05,Walter Benjamin,45,m,Gerhard Scholem,895,1937,4,4,letter
+227,db9e295a75ee4b3b0b4901770111271bb06c78e42a9282a0d4c865cce150c249,Walter Benjamin,43,m,Gerhard Scholem,816,1935,8,9,letter
+231,e7ca2aa9a857032d79f0ba8ab8beff0a9a5cf75283f03181f7cce8d0dab8b52b,Walter Benjamin,43,m,Gerhard Scholem,1370,1935,10,24,letter
+259,e3ede68fc8bf011a15554c73685dd55530f7cd75a7857a18eae2adc829fe4cf6,Walter Benjamin,46,m,Karl Thieme,825,1938,5,,letter
+270,8afca98fd6a382bc378cab21480310005965d0893f62f5b094f2aed82af49246,Walter Benjamin,47,m,Maz Horkheimer,3854,1939,12,15,letter
+166,c967298b03b9b78fae826e6bb5534ced0bcc3cae0d2ac9c69a59875d4038f969,Walter Benjamin,37,m,Gerhard Scholem,1053,1929,7,,letter
+1,cadef94b9f3dc69153fa56946c414a4765cf4d0539567f2c398a7aa4a7709e24,Walter Benjamin,18,m,Herbert Belmore,336,1910,7,15,letter
+34,92a7babec7ad9300641a9ed70652e957883faf7fbb46e9f007ff065046fdbd33,Walter Benjamin,24,m,Martin Buber,189,1916,5,,letter
+171,c5bf82622daea34d04b5b521323d1e301a459d165c61b8383dc9dea490ed3cca,Walter Benjamin,38,m,Gerhard Scholem,393,1930,11,,letter
+9,aca06fffc82dadc5e533ff77a52ebfbbed649e6abf8397ccd5c3abd3a3be137d,Walter Benjamin,20,m,Herbert Belmore,1098,1912,12,8,letter
+10,ad1fe10a424ac9a07d52f9b11c286ca2d392ba1ff68e0441e762e28d44a6d91e,Walter Benjamin,21,m,Herbert Belmore,813,1913,4,29,letter
+11,98904faf48532f4eaaf04dac30418a84d03268589a68c658a0ef7b20c6834019,Walter Benjamin,21,f,Carla Seligsan,1023,1913,4,30,letter
+16,f85248825636a4f2f6f7ea61829128a790f720757e10db2c0b0cdbe2a1435a06,Walter Benjamin,21,m,Herbert Belmore,804,1913,6,23,letter
+31,5a8f27160adff3de9546abe71b78ac0a602855b6f103ce7fc5796884505fc3a4,Walter Benjamin,23,m,Gerhard Scholem,129,1915,10,27,letter
+17,b292969e46a7b0d2c4a6953cee3d0ae2894bea1fd5ffd9768a1422272fd18268,Walter Benjamin,21,m,Herbert Belmore,2136,1913,6,23,letter
+13,548d28bbfca2a97f549fdb30ea6cc3be5b0a5a733929a8cb627d5aa8e2974032,Walter Benjamin,21,m,Franz Sachs,854,1913,6,4,letter
+24,0798d442dc67f39e986d43c15588ec60f79d83fc3f45250a39ca9faedf35c3e3,Walter Benjamin,21,f,Carla Seligson,867,1913,9,15,letter
+19,9c6d867598418e1f6f94b9fe5e5c086ef3c9d2b2f0255196742ddeba724dcc7d,Walter Benjamin,21,f,Carla Seligson,1175,1913,7,8,letter
+14,0833b65d5f964e1d83cbd2ee64911f233d8b111a8816418be740833c15693f34,Walter Benjamin,21,f,Carla Seligson,2004,1913,6,5,letter
+29,fe656ddf1bb4522c34365e88af1949e43b0ce0a65d3237b91cd6f24ecff567fd,Walter Benjamin,22,m,Herbert Belmore,1248,1914,7,7,letter
+15,677ecc210e1c5d403ef256ba72ecddd3faf2cbc232c86f2f484f6bf55b40b529,Walter Benjamin,21,m,Herbert Belmore,847,1913,7,6,letter
+30,c763fb0c787a57d7f8f53ff5ea142a148208f5c4c23c38d61ff534ef8392f5d6,Walter Benjamin,23,m,Herbert Belmore,279,1915,9,19,letter
+22,9f9de877ce0b9f66301324d47b802b83a567bae3125022243de4e1c5a8ddf00c,Walter Benjamin,21,f,Carla Seligson,2641,1913,8,4,letter
+32,7c6336426e7f42d1a0df47070d24dea5461881e80d967a9889f9b22c0cbe412a,Walter Benjamin,23,m,Gerhard Scholem,166,1915,12,14,letter
+20,a173780e113254635704726119068588bc4387f5bf943af9753dc8778c992812,Walter Benjamin,21,m,Franz Sachs,1791,1913,7,11,letter
+21,c6940642fce9bc517d0ee72831b7a1fdadccceba5986d29121cfb36c3dd2936c,Walter Benjamin,21,m,Herbert Belmore,1360,1913,7,17,letter
+207,2a80628401be6d20978ee84a2739384f4cc65cd0d7d10942d147acee3da244d7,Walter Benjamin,42,m,Gerhard Scholem,649,1934,9,15,letter
+114,7fd356f8e88bb21d367ce5e9c8d5bd299986384bd395803ca154098ec65ceb49,Walter Benjamin,32,m,Florens Christian Rang,3220,1924,1,20,letter
+229,657546d82dadff772d522506539f22f8bcb82f6031b596f9c454e7520a7f4493,Walter Benjamin,43,m,Max Horkheimer,1534,1935,10,16,letter
+117,3a769adb259318161061d542fc759a43d252e8d88b349da35355c8689325414f,Walter Benjamin,32,m,Gerhard Scholem,2201,1924,12,22,letter
+226,6005b5b20b4c3f8eb91e9bfa4338e67755d37ce86d6c600788a990d0e0ceac9b,Walter Benjamin,43,m,Al/red Cohn,1482,1935,7,18,letter
+118,ad51071ab8afd8f9bb255b408b1a432db0d91679f0082d467ce39835ef3d217d,Walter Benjamin,32,m,Hugo von Hofmannsthal,547,1924,12,30,letter
+269,61c77130a94192b7320346f977df7f65ff92032a86b2c537bae655454d24ea82,Walter Benjamin,47,m,Gretel Adorno,3987,1939,12,10,letter
+122,c1c593d9724d0f58707487e404bd4e2d4de1ef26cf12ca01989fdc2a83576d77,Walter Benjamin,33,m,Hugo von Hofmannsthal,2599,1925,11,6,letter
+121,8cd6498284e6db46f0729a71a4f32990c2f4276bc65630a3860eee2ee4318595,Walter Benjamin,33,m,Gerhard Scholem,2723,1925,5,20,letter
+123,33168502cf5cc0d56902402418b7f58957194119eebec66eaaf86d4cf2f7ad93,Walter Benjamin,33,m,Rainer M aria Rilke,545,1925,7,3,letter
+125,501e47ace80639e4424c60445622f50b48c359cf71f95ff39843e98fa110b6ff,Walter Benjamin,33,m,Hugo von Hofmannsthal,1300,1925,8,2,letter
+177,da74cc4ea190d41be59adbe78bc52d7e9f505b75613ee7335dd1e493a97f10eb,Walter Benjamin,39,m,Gerhard Scholem,1388,1931,10,28,letter
+184,948744d2bbb97428e71c63f1a2ade024c2b532360a0809f8b1a0bcef0f6b4b31,Walter Benjamin,41,m,Gerhard Scholem,881,1933,1,15,letter
+206,040b30339782651ec77715af5e0d726971997ccd2a1ad94e181b072d557ea41e,Walter Benjamin,42,m,Gerhard Scholem,1000,1934,8,11,letter
+185,9dc67e1153e198786c638115f964e6746c210ac71c4b1f4f6dc356ce6d2e7457,Walter Benjamin,41,m,Gerhard Scholem,1469,1933,2,28,letter

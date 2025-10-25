@@ -1,0 +1,6 @@
+tables_output_folder <- paste(root_folder, "/tables", sep="")
+create_dir(tables_output_folder)
+graphics_output_folder <- paste(root_folder, "/graphics", sep="")
+create_dir(graphics_output_folder)
+stats_output_folder <- paste(root_folder, "/outputs", sep="")
+create_dir(stats_output_folder)
