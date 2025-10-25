@@ -68,12 +68,14 @@ pip install -r Python/requirements.txt
 
 After setup, you can run scripts individually.
 
+Note that you will need OPENAI and GOOGLE API keys and projects in the .env environment variables.
+
 ---
 
 ## 📊 R Environment
 
 The R scripts use standard statistical and visualization libraries such as `tidyverse`, `psych`, and `ggplot2`.
-To reproduce analyses, open the `.R` files in **RStudio** and run them sequentially after placing the data files in the `/data` directory.
+To reproduce analyses, open the `.R` files in **RStudio** and run them sequentially.
 
 ---
 
@@ -165,12 +167,14 @@ pip install -r Python/requirements.txt
 
 Nach der Einrichtung können die Skripte einzeln ausgeführt werden.
 
+Zu beachten: Sie benötigen OPENAI and GOOGLE API Keys und Projekte, die den .env Variable abgelegt sein müssen.
+
 ---
 
 ## 📊 R-Umgebung
 
 Die R-Skripte verwenden gängige Statistik- und Visualisierungsbibliotheken wie `tidyverse`, `psych` und `ggplot2`.
-Zur Reproduktion der Analysen können die `.R`-Dateien in **RStudio** geöffnet und nacheinander ausgeführt werden, nachdem die Datendateien im Verzeichnis `/data` abgelegt wurden.
+Zur Reproduktion der Analysen können die `.R`-Dateien in **RStudio** geöffnet und nacheinander ausgeführt werden.
 
 ---
 
